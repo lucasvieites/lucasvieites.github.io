@@ -1,5 +1,9 @@
 layout: page
 title: "Home"
-permalink: /
+permalink: /home
 
-Be welcome
+## Knowledge base
+- Linux, bash, etc.
+- HTML and CSS
+- macos
+- misc
